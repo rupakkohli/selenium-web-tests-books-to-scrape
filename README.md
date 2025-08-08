@@ -10,7 +10,7 @@ I’m using [BooksToScrape.com](https://books.toscrape.com/) as a safe, static t
 - **Homepage title test** – my first Selenium script; checks that the title contains “Books to Scrape”.
 - **Travel category test** – clicks the category, checks heading text, GBP currency symbol, and URL.
 - **Science category pagination test** – written to click “Next” in a category, but currently skipped because Science only has one page.  
-  *(Keeping it in to show progress and next steps.)*
+- **Poetry category pagination test** – similar to the Science one, but this time the category actually has multiple pages and the test passes.
 
 ---
 
